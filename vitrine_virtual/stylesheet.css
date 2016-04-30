@@ -1,0 +1,117 @@
+		#head {
+			z-index: 1;
+			position: fixed;
+			width: 100%;
+			height: 60px;
+			margin-top: -20px;
+			background-color: #2E2E2E;
+			margin-bottom: 10px;
+			
+		} 
+			
+		
+		#pesquisa {
+			float:right;
+			margin-right: 20px;
+			padding-top: 5px;
+			font-size: 16px;
+			font-family: Verdana, sans-serif;
+			color: #ffffff;
+        }
+
+
+	    #home {
+			float:left;
+			margin-left: 10px;
+			padding-top: 5px;
+			font-size: 20px;
+			font-family: Verdana, sans-serif;
+			color: #ffffff;
+		}
+
+        #paginas {
+			float:left;
+			margin-left: 10px;
+			padding-top: 12px;
+			font-size: 16px;
+			font-family: Verdana, sans-serif;
+			color: #ffffff;
+		}
+
+		#select {
+			float:left;
+			margin-left: 10px;
+			margin-top: 7px;			
+			font-size: 16px;
+			font-family: Verdana, sans-serif;
+			color: #2E2E2E;
+		}
+
+
+		.div {
+			padding-top: 50px;
+
+		}
+
+
+		.left {
+			position: relative;
+			float: left;
+			margin-top: -100px;
+			margin-bottom: 10px;
+			width: 8%;
+			height: 900px;
+			background-color: #A4A4A4;
+			
+			
+		}
+
+		.center {
+			padding-top: 50px;	
+			margin-left: 500px;
+			margin-right: 500px;				
+			font-family: Garamond, serif;
+			color: #000000;
+		}
+ 		
+ 		
+		.fundo {
+			position: relative;
+			padding-top: 50px;
+			margin-left: 4px;
+			margin-right: 4px;
+			margin-bottom: -50px;			
+			width: 100%;
+			height: 900px;
+			background-color: #000000;			
+		}
+
+		.table {
+			position: relative;
+			padding-top: 50px;
+			margin-left: 4px;
+			margin-right: 4px;
+			margin-bottom: -50px;			
+			width: 100%;
+			height: 900px;
+			
+
+		}
+		
+		#footer {			
+		    position: fixed;
+		    bottom: 0;
+		    width: 100%;
+		    height:60px;			
+			font-family: serif;
+			font-size: 14px;
+			text-align: center;
+			color: #ffffff;
+			background-color: #2E2E2E;
+		}
+
+		#footer p {
+			position: relative;
+			padding-top: 10px;
+			color: #848484
+		}
